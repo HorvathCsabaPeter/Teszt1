@@ -1,5 +1,6 @@
 # Lucky kávézó
 # Ez a első
 ## Ez a harmadik sor
-#kakó
-##mana
+# kakó
+_ez a szöveg félkövér lesz
+*ez a dölt*
